@@ -7,7 +7,7 @@
 
 * 💻 Tech Enthusiast 
 * 🧠 I love exploring new technologies 
-* 📚 I’m currently learning Web development and Cyber Security
+* 📚 I’m currently learning Web development
 * 📥 You can ask me about my projects!
 * 📧 Contact: frangomez.baires@gmail.com 
 
