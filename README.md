@@ -12,9 +12,7 @@
 
 <h3 style="font-weight: 500;">I would like to learn:</h3>
 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="35px" height="35px" alt="Golang">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="35px" height="35px" alt="Kubernetes">
-<img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" width="35px" height="35px" alt="Java">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_logo_icon_171073.png" width="35px" height="35px" alt="Golang"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="35px" height="35px" alt="Kubernetes"> <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/16_kubernetes-512.png" width="35px" height="35px" alt="Java">
 
 <hr>
 <h3 style="font-weight: 500;">Get in touch with me:</h3>
