@@ -21,4 +21,4 @@
 
 > <a href="https://twitter.com/sukiDeveloper" target="_BLANK">Twitter <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" width="15px" height="15px" alt="Twitter"></a>
 
-> frangomez.baires@gmai.com <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" width="15px" height="15px" alt="Email">
+> frangomez.baires@gmail.com <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-256.png" width="15px" height="15px" alt="Email">
