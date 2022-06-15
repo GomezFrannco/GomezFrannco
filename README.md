@@ -8,7 +8,7 @@
 
 <h3 style="font-weight: 500;">Languages and tools:</h3>
 
-![Node.js](https://img.icons8.com/color/35/nodejs.png) ![Express.js](https://img.icons8.com/color/35/express.png) ![JavaScript](https://img.icons8.com/color/35/javascript.png) ![GraphQL](https://img.icons8.com/color/35/000000/graphql.png) ![MongoDB](https://img.icons8.com/color/35/mongodb.png) ![MySQL](https://img.icons8.com/color/35/mysql-logo.png) ![Firebase](https://img.icons8.com/color/35/firebase.png) ![NPM](https://img.icons8.com/color/35/npm.png) ![GIT](https://img.icons8.com/color/35/git.png)
+![Node.js](https://img.icons8.com/color/35/nodejs.png) ![Express.js](https://img.icons8.com/color/35/express.png) ![JavaScript](https://img.icons8.com/color/35/javascript.png) ![TYPESCRIPT](https://img.icons8.com/color/35/typescript.png) ![GraphQL](https://img.icons8.com/color/35/000000/graphql.png) ![MongoDB](https://img.icons8.com/color/35/mongodb.png) ![MySQL](https://img.icons8.com/color/35/mysql-logo.png) ![Firebase](https://img.icons8.com/color/35/firebase.png) ![NPM](https://img.icons8.com/color/35/npm.png) ![GIT](https://img.icons8.com/color/35/git.png)
 
 <h3 style="font-weight: 500;">I would like to learn:</h3>
 
