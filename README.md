@@ -5,7 +5,7 @@
 - 💡 I'm looking to collaborate on **Backend projects**
 - 📥 You can ask me about my projects!
 - 📚 I'm currently learning more about **Python** 🐍
-- 🧠 Strong understanding of **SQL** language
+- 🧠 Great understanding of **SQL** language
 
 <h3 style="font-weight: 500;">Languages and tools:</h3>
 
