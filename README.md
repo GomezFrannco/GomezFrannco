@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Franco Gomez</h1>
 <h3 align="center" style="font-weight: 500;">Backend developer from Argentina 👾</h3>
 
-- 💻 Tech enthusiast
+- 🚀 Space & Tech Lover
 - 💡 I'm looking to collaborate on **Backend projects**
 - 📥 You can ask me about my projects!
-- 📚 I'm currently learning **TypeScript, PostgreSQL, Docker**
+- 📚 I'm currently learning more about **Python** 🐍
+- 🧠 Strong understanding of **SQL** language
 
 <h3 style="font-weight: 500;">Languages and tools:</h3>
 
