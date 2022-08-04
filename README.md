@@ -4,7 +4,7 @@
 - 🚀 Space & Tech Lover
 - 💡 I'm looking to collaborate on **Backend projects**
 - 📥 You can ask me about my projects!
-- 📚 I'm currently learning more about **Python** 🐍
+- 📚 I'm currently learning more about **Clean Code**
 - 🧠 Great understanding of **SQL** language
 
 <h3 style="font-weight: 500;">Languages and tools:</h3>
